@@ -1,0 +1,67 @@
+body {
+  font-family:'Azeret Mono', monospace;
+  max-height: 100px;
+  background-color: #c5f7a6;
+  background-size: 10vh;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 80vh;
+}
+.imagem-topo{
+  width: 100px;
+  margin-bottom: 10px;
+}
+.page-title {
+  color: #0e9347;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color: #0e9347;
+  margin-top: 5px;
+}
+.conversor{
+  color: #0e9347;
+  font-size: 20pt;
+}
+.valorConvertido{
+  color: #f19920;
+}
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+.imagem-bottom{
+  width: 250px;
+  position: center;
+  margin-bottom:20px;
+}
+input {
+  margin: 12px;
+  padding: 6px;
+  border-radius: 5px;
+}
+
+label {
+  color: #f19920;
+  font-size: 22pt;
+}
+
+button {
+  margin-top: 12px;
+  padding: 4px 8px;
+  border-radius: 10px;
+  background: #ffffff;
+}
+
+h2 {
+  color: #0e9347;
+  font-size: 30px;
+}
